@@ -6,7 +6,7 @@
   - [Interpreting a .pcap with 12M+ Packets Using Only Wireshark](https://github.com/Jcaughs/PSU_wireshark/blob/main/README.md)
   - [Kibana (Ransomware Event Analysis)](https://github.com/Jcaughs/PSU_Kibana)
 - <b>Windows Security Logs</b>
-  - [Finding the Evil in the Logs](link)
+  - [Uncovering Suspicious Activity Hidden in 80,000 Logs](link)
 - <b>Capstone Presentation</b>
   - [Presenting Cybersecurity to Stakeholders](link)
 
