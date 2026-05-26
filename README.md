@@ -1,4 +1,10 @@
-<h1>Hi, I'm John, but I go by Jack! <br/><a href="https://github.com/Jcaughs">Programmer</a>, <a href="https://www.linkedin.com/in/john-caugherty/">Cybersecurity Professional</a>, <a href="https://sites.google.com/psu.edu/jack-caugherty/about">Performer</a></h1>
+<h1>Hi, I'm John, but I go by Jack! <br/><a href="https://www.linkedin.com/in/john-caugherty/">Cybersecurity Professional</a>, <a href="https://sites.google.com/psu.edu/jack-caugherty/about">Performer</a></h1>
+
+<h2>💻 Home Lab Projects</h2>
+
+- <b>Azure Honeypots</b>
+  - [Just How Dangerous is the Internet?](https://github.com/Jcaughs/Just-How-Dangerous-is-the-Internet-)
+
 
 <h2> 🦁 Penn State University Projects:</h2>
 
@@ -9,11 +15,6 @@
   - [Uncovering Suspicious Activity Hidden in 80,000 Logs](https://github.com/Jcaughs/PSU_WindowsSecurityLogs)
 - <b>Capstone Presentation</b>
   - [Presenting Cybersecurity to Stakeholders](link)
-
-<h2>💻 Home Lab Projects</h2>
-
-- <b>Azure Honeypots</b>
-  - [Just How Dangerous is the Internet?](link)
 
 <h2>🔗 Connect with me:</h2>
 
