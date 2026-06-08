@@ -16,7 +16,7 @@
 - <b>Windows Security Logs</b>
   - [Uncovering Suspicious Activity Hidden in 80,000 Logs](https://github.com/Jcaughs/PSU_WindowsSecurityLogs)
 - <b>Capstone Presentation</b>
-  - [Presenting Cybersecurity to Stakeholders](link)
+  - [Presenting Cybersecurity to Stakeholders](https://github.com/Jcaughs/presenting-cybersecurity-to-stakeholders)
  
   <h3> More to come...</h3>
 
